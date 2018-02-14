@@ -1,0 +1,42 @@
+h1 {
+	font-family: Georgia;
+	color: blue;
+	font-weight: bold;
+	background-color: LightGray;
+	font-size: 24px;
+	letter-spacing: 1.6em;
+	word-spacing: 2em;
+	text-align: center;
+}
+
+h2 {
+	font-family:Georgia;
+	color: DarkRed;
+	font-size: 18px;
+	letter-spacing: 1.4em;
+}
+
+th {
+	font-weight:bold;
+	font-size:20px;
+}
+
+td {
+	text-align: center;
+}
+
+table {
+	width:700px;
+}
+
+td {
+	font-size: 20px;
+}
+
+p {
+	font-size: 20px;
+}
+
+li {
+	font-size: 18px;
+}
